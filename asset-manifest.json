@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie_heaven_app/static/css/main.e083b577.chunk.css",
+    "main.js": "/movie_heaven_app/static/js/main.6b0468f4.chunk.js",
+    "main.js.map": "/movie_heaven_app/static/js/main.6b0468f4.chunk.js.map",
+    "runtime-main.js": "/movie_heaven_app/static/js/runtime-main.645ad829.js",
+    "runtime-main.js.map": "/movie_heaven_app/static/js/runtime-main.645ad829.js.map",
+    "static/js/2.daa93c6e.chunk.js": "/movie_heaven_app/static/js/2.daa93c6e.chunk.js",
+    "static/js/2.daa93c6e.chunk.js.map": "/movie_heaven_app/static/js/2.daa93c6e.chunk.js.map",
+    "index.html": "/movie_heaven_app/index.html",
+    "precache-manifest.4dabb1564572207199baaceb8b023b5b.js": "/movie_heaven_app/precache-manifest.4dabb1564572207199baaceb8b023b5b.js",
+    "service-worker.js": "/movie_heaven_app/service-worker.js",
+    "static/css/main.e083b577.chunk.css.map": "/movie_heaven_app/static/css/main.e083b577.chunk.css.map",
+    "static/js/2.daa93c6e.chunk.js.LICENSE.txt": "/movie_heaven_app/static/js/2.daa93c6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.645ad829.js",
+    "static/js/2.daa93c6e.chunk.js",
+    "static/css/main.e083b577.chunk.css",
+    "static/js/main.6b0468f4.chunk.js"
+  ]
+}
